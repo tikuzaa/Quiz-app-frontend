@@ -6,7 +6,7 @@ Welcome to the Quiz App frontend repository! This project is a simple, interacti
 
 - **Responsive Design**: The app is fully responsive, ensuring a seamless experience across all devices.
 - **Interactive UI**: Engaging user interface with smooth transitions and intuitive navigation.
-- **Instant Feedback**: Users receive immediate feedback on their answers, helping them learn from their mistakes.
+- **Instant Feedback**: Users receive immediate feedback on their answers, that helps them learn from their mistakes.
 - **Score Tracking**: Keeps track of users' scores, displaying results at the end of the quiz.
 - **Multiple Categories**: Quizzes are categorized by different topics, making it easy to select a preferred quiz.
 
