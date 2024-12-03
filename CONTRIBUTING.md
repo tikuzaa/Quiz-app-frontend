@@ -21,7 +21,7 @@ This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDU
 
 ### Reporting Bugs
 
-If you find a bug in the project, please open an issue [here](https://github.com/yourusername/quizapp/issues) and include:
+If you find a bug in the project, please open an issue [here](https://github.com/tikuzaa/Quiz-app-frontend/issues) and include:
 
 - A clear and descriptive title.
 - Steps to reproduce the issue.
@@ -30,7 +30,7 @@ If you find a bug in the project, please open an issue [here](https://github.com
 
 ### Feature Requests
 
-We welcome new feature requests. If you have an idea, please open an issue [here](https://github.com/yourusername/quizapp/issues) and provide:
+We welcome new feature requests. If you have an idea, please open an issue [here](https://github.com/tikuzaa/Quiz-app-frontend/issues) and provide:
 
 - A clear and descriptive title.
 - A detailed description of the feature.
@@ -59,10 +59,10 @@ To get started with development, follow these steps:
 
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/quizapp.git
+   git clone https://github.com/yourusername/Quiz-app-frontend.git
    cd quizapp
 
-Replace `https://github.com/yourusername/quizapp` with the actual URL of your repository.
+Replace `https://github.com/yourusername/Quiz-app-frontend.git` with the actual URL of your forked repository.
 
 3. **Install dependencies:**
     - This project uses only HTML, CSS, and JavaScript, so there are no dependencies to install.
