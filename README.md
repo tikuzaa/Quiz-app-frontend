@@ -80,6 +80,15 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 
+## Contributors
+<a href="https://github.com/tikuzaa/Quiz-app-frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tikuzaa/Quiz-app-frontend" />
+</a>
+
+## Forkers
+
+[![Forkers repo roster for @tikuzaa/Quiz-app-frontend](https://reporoster.com/forks/tikuzaa/Quiz-app-frontend)](https://github.com/tikuzaa/Quiz-app-frontend/network/members)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
