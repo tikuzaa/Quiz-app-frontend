@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quiz-app-frontend.git
+    git clone https://github.com/tikuzaa/quiz-app-frontend.git
     ```
 
 2. Navigate to the project directory:
