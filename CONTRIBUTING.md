@@ -15,7 +15,7 @@ Thank you for considering contributing to QuizApp! Your help is greatly apprecia
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [email@example.com](mailto:email@example.com).
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [dey.debangan2004@gmail.com](mailto:dey.debangan2004@gmail.com).
 
 ## How Can I Contribute?
 
