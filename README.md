@@ -42,6 +42,42 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
+## Landing Page Design Template
+![image](https://github.com/user-attachments/assets/638ef338-4f94-4577-a564-44862a8d83c7)
+**User Interface:**
+1. Contains Rules for the Quiz App
+2. A Continue button which redirects to Login Page
+
+## Login Page Design Template
+![image](https://github.com/user-attachments/assets/8f2e5f17-29d9-4fa2-9273-e7e6f419ea61)
+**User Interface:**
+1. Contains a text Box to Enter User Name (It should be a required field)
+2. A Button to Start The Quiz
+
+## Quiz Questions Page
+![image](https://github.com/user-attachments/assets/93a6ff94-952c-462f-be2c-aa53cdb9eb9d)
+**User Interface:**
+1. Contains questions and options to select from
+2. Has a timer for each question (set it to 15sec)
+3. Has a button to move on to the Next Question
+
+**Required Features:**
+1. If the user selects the correct option then it glows green and the timer stops
+2. If the user selects the wrong option then it glows red and the correct option is revealed (it glows green)
+3. If the time runs out then the correct option is revealed
+4. For each correct option selected the score is counted
+
+## Quiz End Page
+![image](https://github.com/user-attachments/assets/1ffa4614-68a6-481a-a906-318461e7ad24)
+**User Interface:**
+1. Contains a Thank You Message
+2. A Retry Button which redirects to Landing Page
+
+**Required Features:**
+1. Display the score of the user (it should be in the format: number of correct options selected / total number of questions)
+
+
+
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 
 ## License
