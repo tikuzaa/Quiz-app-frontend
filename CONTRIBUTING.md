@@ -61,3 +61,24 @@ To get started with development, follow these steps:
    ```bash
    git clone https://github.com/yourusername/quizapp.git
    cd quizapp
+
+Replace `https://github.com/yourusername/quizapp` with the actual URL of your repository.
+
+3. **Install dependencies:**
+    - This project uses only HTML, CSS, and JavaScript, so there are no dependencies to install.
+
+4. **Open the project in your code editor:**
+   - Open the project folder in your preferred code editor.
+
+5. **Run the project:**
+   - Open `index.html` in your browser to see the app in action.
+  
+## Pull Request Process
+1. Ensure your code follows the project's coding standards.
+2. Ensure that you have added necessary tests for your changes.
+3. Ensure that all tests pass.
+4. Submit your pull request, describing the changes and the motivation behind them.
+5. A project maintainer will review your pull request and provide feedback.
+
+##
+Thank you for contributing to QuizApp! We look forward to working with you.
